@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/monk_front" android:duration="60"/>
+    <item android:drawable="@drawable/monk_backwards1" android:duration="60"/>
+    <item android:drawable="@drawable/monk_backwards2" android:duration="60"/>
+    <item android:drawable="@drawable/monk_backwards3" android:duration="60"/>
+    <item android:drawable="@drawable/monk_backwards4" android:duration="60"/>
+    <item android:drawable="@drawable/monk_forward1" android:duration="60"/>
+    <item android:drawable="@drawable/monk_forward2" android:duration="60"/>
+    <item android:drawable="@drawable/monk_forward3" android:duration="60"/>
+    <item android:drawable="@drawable/monk_forward4" android:duration="60"/>
+
+</animation-list>
